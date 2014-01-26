@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/oxoodeaf/src/zerogate/fix-gateway-demo/.git'
+let g:netrw_dirhist_2='/Users/oxoodeaf/src/zerogate/fix-gateway-demo/build'
+let g:netrw_dirhist_3='/Users/oxoodeaf/src/zerogate/fix-gateway-demo/build/sbin'
+let g:netrw_dirhist_4='/Users/oxoodeaf/src/zerogate/fix-gateway-demo/3rd/zeromq'
+let g:netrw_dirhist_5='/Users/oxoodeaf/src/zerogate/fix-gateway-demo/src/srv/fix-mta-demo-fix8/fix-mta-demo/fix-mta-demo.xcodeproj'
